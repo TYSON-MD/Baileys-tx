@@ -1,159 +1,137 @@
-🚀 TYSON MD – Enhanced Baileys Library
+🚀 TYSON MD - Enhanced Baileys Library
 
 <div align="center">
 <img src="https://files.catbox.moe/2gzoau.jpg" width="200" alt="TYSON MD Logo" />
-</div><div align="center">
-<img src="https://i.imgur.com/AAQz4yN.gif" width="600" />
-</div><p align="center">
-<b>Modern • Stable • Fast • Enhanced</b><br>
-مكتبة بايلز معدلة ومحسّنة لبناء أقوى بوتات واتساب
-</p><div align="center">
-<img src="https://i.imgur.com/1Q9Z1Zm.gif" width="400" />
-</div>
----
-
-✨ Overview • نظرة عامة
-
-<div align="center">
-<img src="https://i.imgur.com/tKXq7jt.gif" width="650" />
-</div>Baileys-TX هي نسخة مطوّرة من مكتبة Baileys الشهيرة الخاصة بالتعامل مع WhatsApp Multi-Device.
-تم تحسينها لضمان:
-
-استقرار أعلى
-
-دعم تسجيل الدخول الثنائي
-
-أداء أقوى
-
-أسرع في معالجة الرسائل
-
-
-
----
-
-<div align="center">
-<img src="https://i.imgur.com/wv3sLrC.gif" width="600" />
 </div>
 
----
-
-🛠️ Fixed Issues • المشكلات التي تم حلها
+<div align="center">
+✨ <b>𝐁𝐚𝐲𝐥𝐞𝐬 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 𝐄𝐧𝐡𝐚𝐧𝐜𝐞𝐝 • مـكـتـبـة بـايـلـيـز الـمـعـدله</b> ✨
+<br>
+<em>𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 • تـم الـتـطـويـر بـواسـطـة</em> <b>𝐓𝐘𝐒𝐎𝐍-𝐌𝐃</b>
+</div>
 
 <div align="center">
-<img src="https://i.imgur.com/DM7Rk8p.gif" width="450" />
-</div>🔧 تحسينات الاتصال الأساسي
+<img src="https://i.imgur.com/tKXq7jt.gif" width="450" />
+<br><br>
 
-🔐 دعم تسجيل الدخول الثنائي
+✨ <b>Bayles-tx • نـسـخـة بـايـلـيـز الـمـطـوّرة</b> ✨  
+<br>
+<em>𝐌𝐨𝐝𝐢𝐟𝐢𝐞𝐝 𝐚𝐧𝐝 𝐄𝐧𝐡𝐚𝐧𝐜𝐞𝐝 𝐛𝐲</em>  
+<b>𝐓𝐘𝐒𝐎𝐍-𝐌𝐃</b>
 
-🎭 دعم كامل للوسائط
+<br><br>
 
-🔄 إصلاحات الجلسات
+<div style="max-width: 500px; text-align: center; font-size: 15px;">
+🔹 استقرار أعلى  
+🔹 دعم تسجيل الدخول الثنائي  
+🔹 أداء أقوى  
+🔹 سرعة في معالجة الرسائل  
+</div>
 
-⚙️ تحسين سرعة الأحداث
-
-
-
----
-
-🌟 Enhanced Features • المميزات المحسّنة
-
-<div align="center">
-<img src="https://i.imgur.com/5O72Uvn.gif" width="500" />
-</div>أداء عالي للمجموعات
-
-إرسال واستقبال كل أنواع الوسائط
-
-إدارة الجلسات
-
-تحديثات سريعة
-
-متوافق مع Node.js
+</div>
 
 
+🛠️ 𝐅𝐢𝐱𝐞𝐝 𝐈𝐬𝐬𝐮𝐞𝐬 • الـمـشـاكـل الـمحـلوله
 
----
+· 🔧 lid - 𝐂𝐨𝐫𝐞 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧 𝐟𝐢𝐱𝐞𝐬 • إصـلاحـات الاتـصـال الأسـاسـيـة
+· 🔐 𝐒𝐞𝐬𝐬𝐢𝐨𝐧𝐬 • الجـلـسـات - 𝐃𝐮𝐚𝐥 𝐚𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 • دعـم المـصـادقـة المـزدوجـة:
+  · 📱 𝐐𝐑 𝐜𝐨𝐝𝐞 𝐥𝐨𝐠𝐢𝐧 • تسـجـيـل الـدخـول بـرمـز QR
+  · 🔢 𝟖-𝐝𝐢𝐠𝐢𝐭 𝐜𝐨𝐝𝐞 𝐥𝐨𝐠𝐢𝐧 • تسـجـيـل الـدخـول بـرمـز 8 أرقـام
 
-📦 Installation
+🌟 𝐄𝐧𝐡𝐚𝐧𝐜𝐞𝐝 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 • الـمـيـزات الـمـحـسـنـة
 
-<div align="center">
-<img src="https://i.imgur.com/kd9zvNW.gif" width="300" />
-</div>{
+· ⚡ 𝐈𝐦𝐩𝐫𝐨𝐯𝐞𝐝 𝐠𝐫𝐨𝐮𝐩 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 • أداء محـسـن للمجـمـوعـات
+· 🎭 𝐅𝐮𝐥𝐥 𝐦𝐞𝐝𝐢𝐚 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 • دعـم كـامـل للـوسـائـط
+· 🔄 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 • إدارة متقـدمـة للجـلـسـات
+
+📥 𝐇𝐨𝐰 𝐭𝐨 𝐔𝐩𝐝𝐚𝐭𝐞 • كـيـفـيـة الـتـحـديـث
+
+في ملف package.json:
+
+```json
+{
   "dependencies": {
     "@whiskeysockets/Baileys": "github:TYSON-MD/Baileys-tx"
   }
 }
+```
 
+🔧 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧 • الـتـثـبـيـت
+
+```bash
 npm install @whiskeysockets/Baileys@github:TYSON-MD/Baileys-tx
+```
 
+```javascript
+const { default: makeWASocket } = require("@whiskeysockets/Baileys")
+```
 
----
+🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧 𝐌𝐞𝐭𝐡𝐨𝐝𝐬 • طـرق الاتـصـال
 
-🔗 Connection Examples
+📱 𝐔𝐬𝐢𝐧𝐠 𝐐𝐑-𝐂𝐎𝐃𝐄 • بـاسـتـخـدام رمـز QR
 
-<div align="center">
-<img src="https://i.imgur.com/CtaTIqm.gif" width="500" />
-</div>🔹 QR Login
-
+```javascript
 const { default: makeWASocket, Browsers } = require("@whiskeysockets/Baileys")
 
 const sock = makeWASocket({
-    browser: Browsers.ubuntu('MyApp'),
+    browser: Browsers.ubuntu('𝐌𝐲 𝐀𝐩𝐩 • تـطـبـيـقـي'),
     printQRInTerminal: true
 })
+```
 
-🔹 8-Digit Login
+🔢 𝐔𝐬𝐢𝐧𝐠 𝐏𝐚𝐢𝐫𝐢𝐧𝐠 𝐂𝐨𝐝𝐞 • بـاسـتـخـدام رمـز الاقـتـران
+
+```javascript
+const sock = makeWASocket({
+    printQRInTerminal: false
+})
 
 if (!sock.authState.creds.registered) {
-    const number = '2015XXXXXXXX'
+    const number = 'XXXXXXXXXXX'
     const code = await sock.requestPairingCode(number)
-    console.log('Pairing Code:', code)
+    console.log('🔑 𝐏𝐚𝐢𝐫𝐢𝐧𝐠 𝐂𝐨𝐝𝐞 • كـود الاقـتـران:', code)
 }
+```
 
+💾 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐒𝐭𝐨𝐫𝐚𝐠𝐞 • حـفـظ الجـلـسـات
 
----
-
-💾 Sessions
-
+```javascript
 const { useMultiFileAuthState } = require("@whiskeysockets/Baileys")
 
 const { state, saveCreds } = await useMultiFileAuthState('auth_info_baileys')
 const sock = makeWASocket({ auth: state })
 
 sock.ev.on('creds.update', saveCreds)
+```
 
+📨 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐇𝐚𝐧𝐝𝐥𝐢𝐧𝐠 • تـعـامـل مـع الـرسـائـل
 
----
-
-📨 Message Handler
-
-sock.ev.on('messages.upsert', async ({ messages }) => {
-    for (const msg of messages) {
-        await sock.sendMessage(msg.key.remoteJid, { text: "تم الاستلام ✔" })
+```javascript
+sock.ev.on('messages.upsert', ({ messages }) => {
+    for (const message of messages) {
+        console.log('📩 𝐍𝐞𝐰 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 • رسـالـة جـديـدة:', message)
+        await sock.sendMessage(message.key.remoteJid, { 
+            text: '🎯 𝐑𝐞𝐜𝐞𝐢𝐯𝐞𝐝! • تـم الاسـتـلام!' 
+        })
     }
 })
+```
 
+👑 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 • الـمـطـور
 
----
-
-<div align="center">
-<img src="https://i.imgur.com/zQIgDyb.gif" width="650" />
-</div>
----
-
-👑 Developer
-
-const TYSON_MD = {
-  Developer: "TYSON MD",
-  WhatsApp: "https://wa.me/201515378259",
-  GitHub: "https://github.com/TYSON-MD",
-  Version: "Enhanced Edition"
-}
-
+```javascript
+const 𝐓𝐘𝐒𝐎𝐍_𝐌𝐃 = {
+  "👑 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 • الـمـبـرـمـج": "𝐓𝐘𝐒𝐎𝐍 𝐌𝐃",
+  "📱 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 • واتـسـاب": "https://wa.me/201515378259",
+  "💻 𝐆𝐢𝐭𝐇𝐮𝐛 • جـيـت هـب": "github.com./TYSON-MD/Baileys-tx",
+  "🚀 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 • الإصـدار": "𝐄𝐧𝐡𝐚𝐧𝐜𝐞𝐝 𝐄𝐝𝐢𝐭𝐢𝐨𝐧 • الـنسـخـة الـمـطـورة"
+};
+```
 
 ---
 
 <div align="center">
-<img src="https://i.imgur.com/btP0MXL.gif" width="600" /><h2>🔥 TYSON MD – Advanced WhatsApp Bot Library 🔥</h2>
-<b>Powered with Style — تم تصميمه بواسطه 3lilio ✨</b>
+<b>🎯 𝐓𝐘𝐒𝐎𝐍 𝐌𝐃 - 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 🚀</b>
+<br>
+<em>𝐓𝐘𝐒𝐎𝐍 𝐌𝐃 - مـكـتـبـة بـوتـات وتـسـاب 🎯</em>
 </div>
----
