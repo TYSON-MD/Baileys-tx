@@ -1,7 +1,7 @@
 🚀 TYSON MD - Enhanced Baileys Library
 
 <div align="center">
-<img src="https://files.catbox.moe/2qxsxv.png" width="200" alt="TYSON MD Logo" />
+<img src="https://files.catbox.moe/15uyf6.png" width="200" alt="TYSON MD Logo" />
 </div>
 
 <div align="center">
